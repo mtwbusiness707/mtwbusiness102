@@ -44,8 +44,6 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 <!-- USE MYDFIR PROJECTS, TAKE SCREENSHOTS, and CREATE DIAGRAMS USING DRAW.IO -->
 
-
-###  --- Personal Projects --- 
 - <a href="https://github.com/mtwbusiness909/Active-Directory-Homelab-MTW"> Active Directory Homelab </a>
 
 <!--
