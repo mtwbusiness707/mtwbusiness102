@@ -44,16 +44,17 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 <!-- USE MYDFIR PROJECTS, TAKE SCREENSHOTS, and CREATE DIAGRAMS USING DRAW.IO -->
 
+### Personal Projects
 - <a href="https://github.com/mtwbusiness909/Active-Directory-Homelab-MTW"> Active Directory Lab </a>
 
-<!--
+### University Projects
+- <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECT"> CSE 3232 - Software Requirement Analysis </a>
+- <a href="https://github.com/mtwbusiness102/CSE-3241-PROJECT"> CSE 3241 - Introduction To Databases </a>
+- <a href="https://github.com/mtwbusiness102/ACCTMIS-3620-PROJECTS"> ACCTMIS 3620 - Foundation of Information Systems </a>
+- <a href="https://github.com/mtwbusiness102/ACCTMIS-4650-PROJECT"> ACCTMIS 4650 - Decision Support Systems </a>
+- <a href="https://github.com/mtwbusiness102/ACCTMIS-4660-PROJECT"> ACCTMIS 4660 - E-Commerce </a>
 
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Lab </a>
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SOAR Lab </a>
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Malware Analysis Lab </a>
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Network Analysis Lab </a>
 
--->
 <!--
 ###  --- Class Projects ---  
 - <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECT"> CSE 3232 - Software Requirement Analysis </a>
